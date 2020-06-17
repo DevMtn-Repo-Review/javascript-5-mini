@@ -2,7 +2,7 @@
 
 # Project Summary
 
-In this project we'll test your knowledge of Classes and Context in JavaScript.
+In this project we'll test your knowledge of Constructors and Context in JavaScript.
 
 # Setup
 
@@ -10,8 +10,6 @@ In this project we'll test your knowledge of Classes and Context in JavaScript.
 * Open the project in your text editor
 * Open `index.html` in your browser
   * Use either `live-server` or your file explorer
-* Select either the `Classes` or `Context` link
-* Open the associated JavaScript file and start coding
   * The list items will turn green as you complete each step
 * Add and commit your code often!
 
